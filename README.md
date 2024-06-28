@@ -1,1 +1,1 @@
-just the first hello world program from an old man
+Recording of python learning 
